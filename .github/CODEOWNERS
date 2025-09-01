@@ -1,2 +1,8 @@
 cde-manager/ @marko-gacesa
 common/ @marko-gacesa
+/cde-manager/ @marko-gacesa
+/common/ @marko-gacesa
+cde-manager/cmd/ @marko-gacesa
+common/cmd/ @marko-gacesa
+/cde-manager/cmd/ @marko-gacesa
+/common/cmd/ @marko-gacesa
